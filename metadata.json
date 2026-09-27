@@ -1,0 +1,7 @@
+{
+  "name": "Anime Card Clash 2P",
+  "description": "เกมการ์ดดวล 2 คน รวม 5 อนิเมะ MHA, Naruto, One Piece, Jujutsu Kaisen, Dragon Ball พร้อมระบบ Power Reaction ความสัมพันธ์และสกิลสุดอลังการ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
